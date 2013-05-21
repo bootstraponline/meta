@@ -1,4 +1,5 @@
-<div class="markdown-body">
+<div id="wiki-content" class="has_rightbar">
+  <div class="markdown-body">
   <ul>
     <li>
       <strong><a href="https://github.com/bootstraponline/meta/wiki/12.04-&amp;-Git">12.04 &amp; Git</a></strong>
@@ -25,13 +26,16 @@
       <strong><a href="https://github.com/bootstraponline/meta/wiki/CI">CI</a></strong>
     </li>
     <li>
+      <strong><a href="https://github.com/bootstraponline/meta/wiki/Eclipse">Eclipse</a></strong>
+    </li>
+    <li>
       <strong><a href="https://github.com/bootstraponline/meta/wiki/gdx-math-to-Pythagoras">gdx math to Pythagoras</a></strong>
     </li>
     <li>
-      <strong><a href="https://github.com/bootstraponline/meta/wiki/git-diff-html">git diff html</a></strong>
+      <strong><a href="https://github.com/bootstraponline/meta/wiki/Git">Git</a></strong>
     </li>
     <li>
-      <strong><a href="https://github.com/bootstraponline/meta/wiki/Git-Workflow">Git Workflow</a></strong>
+      <strong><a href="https://github.com/bootstraponline/meta/wiki/git-diff-html">git diff html</a></strong>
     </li>
     <li>
       <strong><a href="https://github.com/bootstraponline/meta/wiki/Gollum-Export">Gollum Export</a></strong>
@@ -40,10 +44,19 @@
       <strong><a href="https://github.com/bootstraponline/meta/wiki/JavaScript-Markdown">JavaScript Markdown</a></strong>
     </li>
     <li>
+      <strong><a href="https://github.com/bootstraponline/meta/wiki/Node.js">Node.js</a></strong>
+    </li>
+    <li>
       <strong><a href="https://github.com/bootstraponline/meta/wiki/OpenShift-&amp;-CloudFoundry">OpenShift &amp; CloudFoundry</a></strong>
     </li>
     <li>
+      <strong><a href="https://github.com/bootstraponline/meta/wiki/OS-X">OS X</a></strong>
+    </li>
+    <li>
       <strong><a href="https://github.com/bootstraponline/meta/wiki/Pry">Pry</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://github.com/bootstraponline/meta/wiki/RubyGems">RubyGems</a></strong>
     </li>
     <li>
       <strong><a href="https://github.com/bootstraponline/meta/wiki/Selenium-2-ChromeDriver-Basic-Auth">Selenium 2 ChromeDriver Basic Auth</a></strong>
@@ -56,3 +69,4 @@
     </li>
   </ul>
   </div>
+</div>
